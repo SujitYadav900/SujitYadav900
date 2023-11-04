@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **I believe in lifelong learning, and currently, I'm exploring .**
 
-- 💬 Ask me about **Spring Boot,Microservices,Angular,Mysql,MongoDb,Docker,Linux**
+- 💬 Ask me about **- 💻 I specialize in Spring Boot, Microservices, Angular, Mysql ,MongoDb, Docker,Linux.<br> - 🌐 I build web applications that are not just functional but also user-friendly. <br> - 🚀 I enjoy optimizing code for performance and scalability. <br> - 🧠 I'm always eager to learn and explore new technologies and trends in the industry.**
 
 - 📫 How to reach me **You can reach me via email at kumarsujeet31680@gmail.com for any inquiries, collaborations, or just to say hi.**
 
