@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujityadav900&label=Profile%20views&color=0e75b6&style=flat" alt="sujityadav900" /> </p>
 
-- 🔭 I’m currently working on **WhatsApp Campaigner and LMS**
+- 🔭 I’m currently working on **Cinemas Application**
 
 - 🌱 I’m currently learning **I believe in lifelong learning, and currently, I'm exploring .**
 
