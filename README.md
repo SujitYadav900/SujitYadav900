@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **You can reach me via email at kumarsujeet31680@gmail.com for any inquiries, collaborations, or just to say hi.**
 
-- 📄 Know about my experiences [https://github.com/SujitYadav900/SujitYadav900/blob/main/SujitKumar.pdf](https://github.com/SujitYadav900/SujitYadav900/blob/main/SujitKumar.pdf)
+- 📄 Know about my experiences [https://github.com/SujitYadav900/SujitYadav900/blob/main/Sujit_Resume.pdf](https://github.com/SujitYadav900/SujitYadav900/blob/main/Sujit_Resume.pdf)
 
 - ⚡ Fun fact **I'm funny**
 
