@@ -20,10 +20,10 @@
 ## 📫 Connect with Me
 <p align="left">
 <a href="mailto:kumarsujeet31680@gmail.com"><img src="https://img.shields.io/badge/Email- kumarsujeet31680@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-<a href="https://linkedin.com/in/sujit-kumar-b153811b0/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sujit-yadav-b153811b0/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/SujitYadav900" target="blank"><img src="https://img.shields.io/badge/GitHub-@SujitYadav900-black?style=flat-square&logo=github" alt="GitHub" /></a>
 <a href="https://medium.com/kumarsujit" target="blank"><img src="https://img.shields.io/badge/Medium-@kumarsujit-green?style=flat-square&logo=medium" alt="Medium" /></a>
-<a href="https://instagram.com/sujityadav900" target="blank"><img src="https://img.shields.io/badge/Instagram-@sujityadav900-pink?style=flat-square&logo=instagram" alt="Instagram" /></a>
+<a href="https://instagram.com/yadav_sujitt" target="blank"><img src="https://img.shields.io/badge/Instagram-@sujityadav900-pink?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
 
 ---
